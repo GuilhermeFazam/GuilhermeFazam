@@ -8,10 +8,11 @@ I work for a consultancy as a Front-end for SharePoint and i am studying to be a
 
 My focus has always been on the Front-end ... but when I studied ReactJs I felt the need to evolve and always keep learning.
 
-####Actually studying:
+#### Actually studying:
 
 <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
-####My solid knowledge:
+
+#### My solid knowledge:
 
 <img alt="Sharepoint" src="https://img.shields.io/badge/Sharepoint%20-%23007ACC.svg?&style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23F05033.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,7 +20,7 @@ My focus has always been on the Front-end ... but when I studied ReactJs I felt 
 <img alt="SASS" src="https://img.shields.io/badge/sass%20-%23cf649a.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
 <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%23f0db4f.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
 
-####My knowledge in progress:
+#### My knowledge in progress:
 
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>

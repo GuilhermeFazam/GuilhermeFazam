@@ -18,7 +18,8 @@ My focus has always been on the Front-end ... but when I studied ReactJs I felt 
 
 #### My knowledge in progress:
 
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="styled-components" src="https://img.shields.io/badge/styled components%20-%23eaa5e5.svg?&style=for-the-badge&logo=styled-components&logoColor=black"/> <img alt="Gulp" src="https://img.shields.io/badge/Gulp%20-%23F05033.svg?&style=for-the-badge&logo=Gulp&logoColor=white"/> <img alt="Jest" src="https://img.shields.io/badge/jest%20-%23a74b59.svg?&style=for-the-badge&logo=jest&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Gulp" src="https://img.shields.io/badge/Gulp%20-%23F05033.svg?&style=for-the-badge&logo=Gulp&logoColor=white"/> <img alt="Jest" src="https://img.shields.io/badge/jest%20-%23a74b59.svg?&style=for-the-badge&logo=jest&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="styled-components" src="https://img.shields.io/badge/styled components%20-%23eaa5e5.svg?&style=for-the-badge&logo=styled-components&logoColor=black"/>
 
 <table border="0">
     <tr>
@@ -33,4 +34,4 @@ My focus has always been on the Front-end ... but when I studied ReactJs I felt 
 
 ## Where to find me :world_map:
 
-<a href="https://www.linkedin.com/in/guilherme-fazam/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-fazam/" /></a><a href="mailto:glrm1991@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-e94134?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:glrm1991@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/guilherme-fazam/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-fazam/" /></a>
